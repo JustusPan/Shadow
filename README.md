@@ -1,2 +1,2 @@
-godot3.1 制作横板动作demo
-作者：幕末浪漫
+# godot3.1 鍒朵綔妯澘鍔ㄤ綔demo 浣滆�咃細骞曟湯娴极
+![godot_logo](https://raw.githubusercontent.com/JustusPan/resource/master/images/godot_logo.png)
